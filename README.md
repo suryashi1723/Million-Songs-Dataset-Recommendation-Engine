@@ -8,8 +8,3 @@ Million Songs Dataset contains of two files: triplet_file and metadata_file. The
 ## Libraries
 * pandas
 * Recommenders
-
-## Algorithms
-* Popularity filtering
-* Content-Based filtering
-* Collaborative filtering
